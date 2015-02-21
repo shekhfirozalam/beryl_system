@@ -1,3 +1,4 @@
+hi
 hello beryl system
 is for ruby on rails
 but we have to learn by ourself.
